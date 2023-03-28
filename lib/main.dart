@@ -32,7 +32,7 @@ class _RootpageState extends State<Rootpage> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text(""),
+          title: Text("I AM RICH"),
           ),
       ),
     );
